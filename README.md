@@ -2,8 +2,8 @@ Explanation of the code
 
 HTML/CSS code that we will mostly be working with:
 
-<div class="panel active" 
-     style="background-image: url('https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80')">
+        <div class="panel active"
+        style="background-image: url('https://images.unsplash.com/photo-1558979158-65a1eaa08691?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80')">
           <h3>Explore The World</h3>
         </div>
 
@@ -14,7 +14,7 @@ HTML/CSS code that we will mostly be working with:
         <div class="panel" style="background-image: url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1353&q=80')">
           <h3>Sunny Beach</h3>
         </div>... there is 2 more
-</div>
+
 
 CSS that defines the dimentions of our 5 panels
 
